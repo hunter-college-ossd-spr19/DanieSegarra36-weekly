@@ -1,6 +1,6 @@
 ## What am I looking at?
-Hello! My name is [Daniel Segarra](https://github.com/hunter-college-cs-ossd/DanieSegarra36-weekly/blob/master/about.md) and you are witnessing my academic journey.  
-This repository is intended for me to [document my weekly progress](https://github.com/hunter-college-cs-ossd/DanieSegarra36-weekly/tree/master/_posts), as I delve deeper into the world of open source software ([OOS](https://en.wikipedia.org/wiki/Open-source_software)).  
+Hello! My name is [Daniel Segarra](https://github.com/hunter-college-ossd-spr19/DanieSegarra36-weekly/blob/gh-pages/about.md) and you are witnessing my academic journey.  
+This repository is intended for me to [document my weekly progress](https://github.com/hunter-college-ossd-spr19/DanieSegarra36-weekly/tree/gh-pages/_posts), as I delve deeper into the world of open source software ([OOS](https://en.wikipedia.org/wiki/Open-source_software)).  
 At times, I may sound and appear misinformed and like a complete novice and that would be because I definitely am just that.  
 Exploring this new territory [OOS] and tackling it's obstacles will strengthen my understanding and allow me to become a strong and reputable contributor.  
 
